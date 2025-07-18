@@ -2,10 +2,10 @@ tailwind.config = {
   theme: {
     extend: {
       colors: {
-        foxOrange: "#e86a12",
-        foxBrown: "#9d4b00",
-        foxLight: "#f9e1c7",
-        foxDark: "#2b1700",
+        foxOrange: "#FF7D00",
+        foxBrown: "#8B4513",
+        foxLight: "#FFF5EB",
+        foxDark: "#4A2C1D",
       },
     },
   },
